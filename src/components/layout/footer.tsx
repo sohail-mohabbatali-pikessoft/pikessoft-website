@@ -16,6 +16,7 @@ const FALLBACK_SOCIAL = [
 ];
 
 const FALLBACK_CONTACT = {
+  email:           "info@pikessoft.com",
   pakistanAddress: "46 Block B PCSIR 2, Johar Town Lahore",
   pakistanPhone:   "+92 42 35315822",
   ukAddress:       "9 College Drive, Dunstable LU5 4NB",
